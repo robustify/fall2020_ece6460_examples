@@ -24,7 +24,7 @@
       
       <param name="uniqueness_ratio" value="15.0" />
       <param name="texture_threshold" value="10" />
-      <param name="speckle_size" value="100" />
+      <param name="speckle_size" value="270" />
       <param name="speckle_range" value="4" />
 
       <param name="approximate_sync" value="true" />
